@@ -102,6 +102,7 @@
 }
 .service-photo{
   max-height: 150px;
+  max-width: 250px;
   padding: 10px;
 }
 
